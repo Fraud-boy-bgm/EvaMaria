@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Fraud Boy Bgm logo">
-</p>
-<h1 align="center">
-  <b>Fraud Boy Bgm</b>
-</h1>
+
 
 
 [![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
